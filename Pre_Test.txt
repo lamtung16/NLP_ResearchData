@@ -1,0 +1,7 @@
+Write a program that takes in an integer and returns 1 if that number is odd, 0 otherwise.
+Write a program that takes in 2 numbers and returns the greater one.
+Write a program to calculate the sum of all even numbers in a list of n integers.
+Write a program that takes in 3 numbers and returns the greatest number.
+Write a program that takes in two parameters, an array of integers and number c, and returns the number of numbers in the array which is greater than c.
+Write a program to find the second smallest number in a list of numbers.
+Write a function that takes in an array of numbers and returns the number with the highest frequency.
