@@ -1,7 +1,7 @@
-Write a program that takes in an integer and returns 1 if that number is odd, 0 otherwise.
-Write a program that takes in 2 numbers and returns the greater one.
-Write a program to calculate the sum of all even numbers in a list of n integers.
-Write a program that takes in 3 numbers and returns the greatest number.
-Write a program that takes in two parameters, an array of integers and number c, and returns the number of numbers in the array which is greater than c.
-Write a program to find the second smallest number in a list of numbers.
-Write a function that takes in an array of numbers and returns the number with the highest frequency.
+Write a function to print “Hello World”.
+Write a script to print numbers from 0 to 100.
+Assign an integer n with any value. Write a script to print 1 if n is odd, 0 otherwise.
+Create an array with 5 values. Write a script to print the first number inside this array without directly printing that number.
+Write a function that takes in an integer and returns 1 if that number is odd, 0 otherwise.
+Write a function to print all numbers in an array.
+Write a function to find the second smallest number in a list of numbers.
